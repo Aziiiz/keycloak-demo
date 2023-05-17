@@ -1,5 +1,5 @@
 ## Keycloak Spring Boot Application
-### This repository contains a Spring Boot application designed to test Keycloak features. The primary goal is to demonstrate and evaluate the functionalities and security provided by Keycloak. The application consists of two main RESTful APIs: one for admins and another for users.
+This repository contains a Spring Boot application designed to test Keycloak features. The primary goal is to demonstrate and evaluate the functionalities and security provided by Keycloak. The application consists of two main RESTful APIs: one for admins and another for users.
 
 * Table of Contents
   * Features
