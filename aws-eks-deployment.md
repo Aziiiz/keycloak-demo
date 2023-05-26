@@ -92,7 +92,7 @@ kubectl get svc
 # port forward keycloak to local 
 kubectl port-forward svc/kubernetes 8080:8080 
 
-#expeted resul should look like this:
+#expected result should look like this:
 Forwarding from 127.0.0.1:8080 -> 8080
 Forwarding from [::1]:8080 -> 8080
 Handling connection for 8080
